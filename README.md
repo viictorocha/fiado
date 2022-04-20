@@ -1,4 +1,4 @@
-# fiado
+# Fiado
 
 A new Flutter project.
 
